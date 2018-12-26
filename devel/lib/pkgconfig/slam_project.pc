@@ -1,0 +1,8 @@
+prefix=/home/workspace/map_my_world_ws/devel
+
+Name: slam_project
+Description: Description of slam_project
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/workspace/map_my_world_ws/devel/lib 
+Requires: 
